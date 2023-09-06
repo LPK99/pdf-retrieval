@@ -12,3 +12,4 @@ llama-cpp-python==0.1.78
 auto-gptq==0.4.2 
 langchain==0.0.268 
 sentencepiece
+InstructorEmbedding==1.0.1
